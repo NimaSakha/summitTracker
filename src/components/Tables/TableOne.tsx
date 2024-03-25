@@ -84,7 +84,7 @@ const TableOne = () => {
                 <Image src={brand.logo} alt="Brand" width={48} height={48} />
               </div>
               <p className="hidden text-black dark:text-white sm:block">
-                {brand.visitors}
+                {brand.visitor}
               </p>
             </div>
 

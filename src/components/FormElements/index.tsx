@@ -14,7 +14,6 @@ import DatePickerOne from "@/components/FormElements/DatePicker/DatePickerOne";
 import MultiSelect from "@/components/FormElements/MultiSelect";
 import SelectGroupTwo from "@/components/SelectGroup/SelectGroupTwo";
 import SelectGroupThree from "../SelectGroup/SelectGroupTwo copy";
-import { Button } from "@mui/material";
 
 const FormElements = () => {
   return (
@@ -34,7 +33,6 @@ const FormElements = () => {
               <SelectGroupTwo />
 
               <SelectGroupThree />
-              <Button>Submit</Button>
             </div>
           </div>
         </div>
